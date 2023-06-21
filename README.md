@@ -26,7 +26,7 @@
 
   Credits:
 
-  The code in this repository is based on the TensorFlow.js library and adapted from a tutorial by OpenAI.
+  The code in this repository is based on the TensorFlow.js library and adapted from a tutorial on Coursera by deeplearning.ai
 
   License:
 
